@@ -1,0 +1,6 @@
+com\react\reactfullstack\exception\TaskNotFoundAdvice.class
+com\react\reactfullstack\ReactFullstackApplication.class
+com\react\reactfullstack\repository\TaskRepository.class
+com\react\reactfullstack\exception\TaskNotFoundException.class
+com\react\reactfullstack\controller\TaskController.class
+com\react\reactfullstack\model\Task.class
